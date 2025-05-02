@@ -60,7 +60,7 @@ const imageSeq = { frame: 1 };
 
 for (let i = 0; i < frameCount; i++) {
   const img = new Image();
-  img.src = `images\\male${String(i + 1).padStart(4, '0')}.png`;
+  img.src = `images\male${String(i + 1).padStart(4, '0')}.png`;
   images.push(img);
 }
 
