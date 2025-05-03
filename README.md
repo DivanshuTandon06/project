@@ -1,4 +1,4 @@
-"# project"
+#interactive Portfolio
 Features of an Interactive Portfolio
 - Dynamic Project Showcase – Include interactive previews of your projects, such as live demos, code snippets, and video walkthroughs.
 - Smooth Navigation – Implement user-friendly navigation with menus, filters, and clickable sections.
